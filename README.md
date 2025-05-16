@@ -2,6 +2,9 @@
 
 This is an HTTP/S service debugger, which can be used to test for response latency from a web service and inspect HTLM/DOM structure for malicious code. This repository includes a powerpoint representation of why I made this project and my experience making it, along with a demo of said project.
 
+## 📄 License
+MIT License — see [LICENSE](LICENSE) for details.
+
 ## 📜 Table of Contents
 
 - [Features](#features)
@@ -13,3 +16,4 @@ This is an HTTP/S service debugger, which can be used to test for response laten
 - [Future Improvements](#future-improvements)
 - [License](#license)
 
+# features
