@@ -22,7 +22,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - Connections can be performed on port 80 and port 443. Why both if most websites and browsing solutions force encrypted connections? To test for proper rerouting of services and incase a web service is only accepting connections to port 80. When selecting port 443 the SSL certificate will be grabbed automatically.
 
-- The tool will automatically display HTTP packet information in a neat, organized manner. After choosing to test port 80 or 443 connections.
+- The tool will display HTTP packet information in a neat, organized manner. After choosing to test port 80 or 443 connections and responding to the prompt to display the said packet information.
 
 - The tool can reuse the socket address for performing multiple connection tests in one go, rather than having to wait for the standard "TIME_WAIT" state for the TCP protocol.
 
