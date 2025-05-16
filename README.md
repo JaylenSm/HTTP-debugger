@@ -40,4 +40,4 @@ For a presentation/demo of the project [CLICK ME](https://onedrive.live.com/:p:/
 
 # Installation
 
-- Due to how lightweight the operations of this tool are, multiple files are not needed for installation. Instead, the dedicated file for this tool is to be installed. Which can then be executed with a dedicated Windows REPL environment (Python3 console or dedicated graphical REPL) or a dedicated Linux REPL environment (python3 HTTP_Debugger.py). 
+- Due to how lightweight the operations of this tool are, multiple files are not needed for installation. Instead, the dedicated file for this tool is to be installed. Which can then be executed with a dedicated Windows REPL environment (Python3 console or dedicated graphical REPL) or a dedicated Linux REPL environment (python3 HTTP_Debugger.py). The requests library will also need to be installed for this tool to function (pip install requests). 
