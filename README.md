@@ -2,9 +2,11 @@
 
 This is an HTTP/S service debugger and recon tool. Which can be used to test for response latency from a web service and inspect HTML/DOM structure for malicious code. This repository includes a powerpoint representation of why I made this project and my experience making it, along with a demo of said project.
 
+
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
 
 ## 📜 Table of Contents
 
@@ -13,6 +15,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Presentation](#Presentation)
 - [Requirements](#Requirements)
 - [Installation](#Installation)
+
 
 # Features
 
@@ -24,13 +27,16 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - The tool can reuse the socket address for performing multiple connection tests in one go, rather than having to wait for the standard "TIME_WAIT" state for the TCP protocol.
 
+
 # Usage
 
 The intended usage of this tool is to be a lightweight, catered CLI tool designed for quick testing of website responsiveness, HTTP content, legitimacy (to some extent), and to review the safety of the source code of a website for malicious payloads without exposing the user to danger as the source code can be effectively viewed as text in a Pythonic environment. 
 
+
 # Presentation
 
 For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829540707/ESvu3V1S6vJGjr9dlvnkVU0BGHtKPD3NyqD_e2FWwZP65Q?e=okM3HH).
+
 
 # Requirements
 
