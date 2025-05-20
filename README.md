@@ -35,7 +35,7 @@ The intended usage of this tool is to be a lightweight, catered CLI tool designe
 
 # Presentation
 
-For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829540707/ESvu3V1S6vJGjr9dlvnkVU0BGHtKPD3NyqD_e2FWwZP65Q?e=okM3HH).
+For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829540707/EU2gnot5niBAvbBPbUx6UTIBw2cgFoKVssaUC-4Y8X1H4g?e=K0v4xz).
 
 
 # Requirements
@@ -47,7 +47,7 @@ For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829
 
 # Installation
 
-- Due to how lightweight the operations of this tool are, multiple files are not needed for installation. Instead, the dedicated file for this tool is to be installed. Which can then be executed with a dedicated Windows REPL environment (Python3 console or dedicated graphical REPL) or a dedicated Linux REPL environment (python3 HTTP_Debugger.py). The requests library will also need to be installed for this tool to function (pip install requests).
+Due to how lightweight the operations of this tool are, multiple files are not needed for installation. Instead, the dedicated file for this tool is to be installed. Which can then be executed with a dedicated Windows REPL environment (Python3 console or dedicated graphical REPL) or a dedicated Linux REPL environment (python3 HTTP_Debugger.py). The requests library will also need to be installed for this tool to function (pip install requests).
 
 
 ### 🔖 Tags
