@@ -36,8 +36,15 @@ For a presentation/demo of the project [CLICK ME](https://1drv.ms/p/c/8d3e98d829
 
 - Make sure you are using a system compatible with the tool. The tool is pretty much compatible with most modern systems where socket access is available to the user (Linux, Windows, MacOS).
 
-- Make sure that the latest version of Python3 is installed and utilized for the best performance. And that the requests library is properly installed in your dedicated REPL. Other libraries utilized are standard libraries and will not have to be manually installed. 
+- Make sure that the latest version of Python3 is installed and utilized for the best performance. And that the requests library is properly installed in your dedicated REPL. Other libraries utilized are standard libraries and will not have to be manually installed.
+
 
 # Installation
 
-- Due to how lightweight the operations of this tool are, multiple files are not needed for installation. Instead, the dedicated file for this tool is to be installed. Which can then be executed with a dedicated Windows REPL environment (Python3 console or dedicated graphical REPL) or a dedicated Linux REPL environment (python3 HTTP_Debugger.py). The requests library will also need to be installed for this tool to function (pip install requests). 
+- Due to how lightweight the operations of this tool are, multiple files are not needed for installation. Instead, the dedicated file for this tool is to be installed. Which can then be executed with a dedicated Windows REPL environment (Python3 console or dedicated graphical REPL) or a dedicated Linux REPL environment (python3 HTTP_Debugger.py). The requests library will also need to be installed for this tool to function (pip install requests).
+
+
+### 🔖 Tags
+
+`#python` `#cybersecurity` `#networking` `#http` `#OSINT` `#cli-tools`
+
